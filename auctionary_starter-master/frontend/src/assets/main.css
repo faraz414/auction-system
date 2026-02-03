@@ -1,0 +1,36 @@
+/* RESET VITE TEMPLATE STYLES */
+#app {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* basic link styling */
+a {
+  text-decoration: none;
+  color: #34d399;
+}
+
+a:hover {
+  opacity: 0.85;
+}
+
+.text-secondary {
+  color: #e5e7eb !important;
+}
+
+.alert-secondary {
+  color: #e5e7eb;
+  background-color: #1f2933;
+  border-color: #374151;
+}
+
+small.text-secondary {
+  color: #cbd5e1 !important;
+}
+
+p.text-secondary,
+.description {
+  color: #e5e7eb !important;
+}
